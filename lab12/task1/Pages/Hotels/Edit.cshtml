@@ -1,0 +1,19 @@
+﻿@page "{id:min(1)?}"
+@model task1.Pages.Hotels.EditModel
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit Hotel!</h1>
+
+<form method="post">
+    <input type="hidden" asp-for="Hotel.HotelId" />
+    <div class="passEditRowName">
+        <label asp-for="Hotel.Price">Edit price: </label>
+        <input asp-for="Hotel.Price" placeholder="@Model.Hotel.Price" />
+    </div>
+    <div class="row">
+        <button type="submit">Update</button>
+        <a asp-page="/Hotels/Hotels">Cancel</a>
+    </div>
+</form>

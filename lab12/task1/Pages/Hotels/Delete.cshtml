@@ -1,0 +1,10 @@
+﻿@page "{id}"
+@model task1.Pages.Hotels.DeleteModel
+@{
+}
+
+<h1>Delete hotel @Model.Hotel.HotelId</h1>
+<form method="post">
+    <button type="submit">Yes</button>
+    <a asp-page="/Hotels/Hotels">No</a>
+</form>

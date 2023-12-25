@@ -1,0 +1,19 @@
+﻿@page
+@model task1.Pages.Sights.SightsModel
+@{
+}
+
+<h1>Sights!</h1>
+
+<a class="createSights" asp-page="/Sights/Edit">Add sight</a>
+
+<div class="row">
+    @foreach (var item in Model.Sights)
+    {
+        <div class="sight">
+            <div class="name">@item.SightId</div>
+            <div class="update"><a asp-page="/Sights/Edit" asp-route-Id="@item.SightId">Update</a></div>
+            <div class="delete"><a asp-page="/Sights/Delete" asp-route-Id="@item.SightId">Delete</a></div>
+        </div>
+    }
+</div>

@@ -1,0 +1,10 @@
+﻿@page "{id}"
+@model task1.Pages.Sights.DeleteModel
+@{
+}
+
+<h1>Delete sight @Model.Sight.SightId</h1>
+<form method="post">
+    <button type="submit">Yes</button>
+    <a asp-page="/Sights/Sights">No</a>
+</form>

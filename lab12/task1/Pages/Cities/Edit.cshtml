@@ -1,0 +1,23 @@
+﻿@page "{id:min(1)?}"
+@model task1.Pages.Cities.EditModel
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit City!</h1>
+
+<form method="post">
+    <input type="hidden" asp-for="City.CityId" />
+    <div class="cityEditRowName">
+        <label asp-for="City.Name">Edit name: </label>
+        <input asp-for="City.Name" placeholder="@Model.City.Name" />
+    </div>
+    <div class="cityEditRowIP">
+        <label asp-for="City.IP">Edit ip: </label>
+        <input asp-for="City.IP" placeholder="@Model.City.IP" />
+    </div>
+    <div class="row">
+        <button type="submit">Update</button>
+        <a asp-page="/Cities/Cities">Cancel</a>
+    </div>
+</form>

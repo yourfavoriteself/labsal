@@ -1,0 +1,19 @@
+﻿@page
+@model task1.Pages.Hotels.HotelsModel
+@{
+}
+
+<h1>Hotels!</h1>
+
+<a class="createHotels" asp-page="/Hotels/Edit">Add hotel</a>
+
+<div class="row">
+    @foreach (var item in Model.Hotels)
+    {
+        <div class="hotel">
+            <div class="name">@item.HotelId</div>
+            <div class="update"><a asp-page="/Hotels/Edit" asp-route-Id="@item.HotelId">Update</a></div>
+            <div class="delete"><a asp-page="/Hotels/Delete" asp-route-Id="@item.HotelId">Delete</a></div>
+        </div>
+    }
+</div>

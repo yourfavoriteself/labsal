@@ -1,0 +1,18 @@
+﻿@page
+@model task1.Pages.Cities.CitiesModel
+@{
+}
+<h1>Cities!</h1>
+
+<a asp-page="/Cities/Edit" class="createCity">Add city</a>
+
+<div class="row">
+    @foreach (var item in Model.Cities)
+    {
+        <div class="city">
+            <div class="name">@item.Name</div>
+            <div class="update"><a asp-page="/Cities/Edit" asp-route-Id="@item.CityId">Update</a></div>
+            <div class="delete"><a asp-page="/Cities/Delete" asp-route-Id="@item.CityId">Delete</a></div>
+        </div>
+    }
+</div>
