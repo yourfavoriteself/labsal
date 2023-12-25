@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ksenia55/Desktop/bmstuAL3semLabs-main/lab13/lab13/lab13/lab13.csproj": {}
+  },
+  "projects": {
+    "/Users/ksenia55/Desktop/bmstuAL3semLabs-main/lab13/lab13/lab13/lab13.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ksenia55/Desktop/bmstuAL3semLabs-main/lab13/lab13/lab13/lab13.csproj",
+        "projectName": "lab13",
+        "projectPath": "/Users/ksenia55/Desktop/bmstuAL3semLabs-main/lab13/lab13/lab13/lab13.csproj",
+        "packagesPath": "/Users/ksenia55/.nuget/packages/",
+        "outputPath": "/Users/ksenia55/Desktop/bmstuAL3semLabs-main/lab13/lab13/lab13/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ksenia55/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.2.0, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.7.0, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.2196, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/ksenia55/Library/Caches/VisualStudio/17.0/MSBuild/357_3/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

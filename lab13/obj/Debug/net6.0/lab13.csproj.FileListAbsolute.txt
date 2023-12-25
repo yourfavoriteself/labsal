@@ -1,0 +1,16 @@
+/Users/ksenia55/Desktop/bmstuAL3semLabs-main/lab13/lab13/lab13/bin/Debug/net6.0/lab13.deps.json
+/Users/ksenia55/Desktop/bmstuAL3semLabs-main/lab13/lab13/lab13/bin/Debug/net6.0/lab13.dll
+/Users/ksenia55/Desktop/bmstuAL3semLabs-main/lab13/lab13/lab13/bin/Debug/net6.0/ref/lab13.dll
+/Users/ksenia55/Desktop/bmstuAL3semLabs-main/lab13/lab13/lab13/bin/Debug/net6.0/lab13.pdb
+/Users/ksenia55/Desktop/bmstuAL3semLabs-main/lab13/lab13/lab13/obj/Debug/net6.0/lab13.csproj.AssemblyReference.cache
+/Users/ksenia55/Desktop/bmstuAL3semLabs-main/lab13/lab13/lab13/obj/Debug/net6.0/lab13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ksenia55/Desktop/bmstuAL3semLabs-main/lab13/lab13/lab13/obj/Debug/net6.0/App.xaml.g.cs
+/Users/ksenia55/Desktop/bmstuAL3semLabs-main/lab13/lab13/lab13/obj/Debug/net6.0/MainPage.xaml.g.cs
+/Users/ksenia55/Desktop/bmstuAL3semLabs-main/lab13/lab13/lab13/obj/Debug/net6.0/lab13.AssemblyInfoInputs.cache
+/Users/ksenia55/Desktop/bmstuAL3semLabs-main/lab13/lab13/lab13/obj/Debug/net6.0/lab13.AssemblyInfo.cs
+/Users/ksenia55/Desktop/bmstuAL3semLabs-main/lab13/lab13/lab13/obj/Debug/net6.0/lab13.csproj.CoreCompileInputs.cache
+/Users/ksenia55/Desktop/bmstuAL3semLabs-main/lab13/lab13/lab13/obj/Debug/net6.0/XamlC.stamp
+/Users/ksenia55/Desktop/bmstuAL3semLabs-main/lab13/lab13/lab13/obj/Debug/net6.0/lab13.dll
+/Users/ksenia55/Desktop/bmstuAL3semLabs-main/lab13/lab13/lab13/obj/Debug/net6.0/refint/lab13.dll
+/Users/ksenia55/Desktop/bmstuAL3semLabs-main/lab13/lab13/lab13/obj/Debug/net6.0/lab13.pdb
+/Users/ksenia55/Desktop/bmstuAL3semLabs-main/lab13/lab13/lab13/obj/Debug/net6.0/CitiesPage.xaml.g.cs
