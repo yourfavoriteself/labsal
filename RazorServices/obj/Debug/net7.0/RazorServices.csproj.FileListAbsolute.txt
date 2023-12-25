@@ -1,0 +1,17 @@
+/Users/ksenia55/Desktop/bmstuAL3semLabs-main/lab12/RazorServices/bin/Debug/net7.0/RazorServices.deps.json
+/Users/ksenia55/Desktop/bmstuAL3semLabs-main/lab12/RazorServices/bin/Debug/net7.0/RazorServices.runtimeconfig.json
+/Users/ksenia55/Desktop/bmstuAL3semLabs-main/lab12/RazorServices/bin/Debug/net7.0/RazorServices.dll
+/Users/ksenia55/Desktop/bmstuAL3semLabs-main/lab12/RazorServices/bin/Debug/net7.0/RazorServices.pdb
+/Users/ksenia55/Desktop/bmstuAL3semLabs-main/lab12/RazorServices/bin/Debug/net7.0/RazorModels.dll
+/Users/ksenia55/Desktop/bmstuAL3semLabs-main/lab12/RazorServices/bin/Debug/net7.0/RazorModels.pdb
+/Users/ksenia55/Desktop/bmstuAL3semLabs-main/lab12/RazorServices/obj/Debug/net7.0/RazorServices.csproj.AssemblyReference.cache
+/Users/ksenia55/Desktop/bmstuAL3semLabs-main/lab12/RazorServices/obj/Debug/net7.0/RazorServices.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ksenia55/Desktop/bmstuAL3semLabs-main/lab12/RazorServices/obj/Debug/net7.0/RazorServices.AssemblyInfoInputs.cache
+/Users/ksenia55/Desktop/bmstuAL3semLabs-main/lab12/RazorServices/obj/Debug/net7.0/RazorServices.AssemblyInfo.cs
+/Users/ksenia55/Desktop/bmstuAL3semLabs-main/lab12/RazorServices/obj/Debug/net7.0/RazorServices.csproj.CoreCompileInputs.cache
+/Users/ksenia55/Desktop/bmstuAL3semLabs-main/lab12/RazorServices/obj/Debug/net7.0/RazorServices.csproj.CopyComplete
+/Users/ksenia55/Desktop/bmstuAL3semLabs-main/lab12/RazorServices/obj/Debug/net7.0/RazorServices.dll
+/Users/ksenia55/Desktop/bmstuAL3semLabs-main/lab12/RazorServices/obj/Debug/net7.0/refint/RazorServices.dll
+/Users/ksenia55/Desktop/bmstuAL3semLabs-main/lab12/RazorServices/obj/Debug/net7.0/RazorServices.pdb
+/Users/ksenia55/Desktop/bmstuAL3semLabs-main/lab12/RazorServices/obj/Debug/net7.0/RazorServices.genruntimeconfig.cache
+/Users/ksenia55/Desktop/bmstuAL3semLabs-main/lab12/RazorServices/obj/Debug/net7.0/ref/RazorServices.dll

@@ -1,0 +1,12 @@
+/Users/ksenia55/Desktop/bmstuAL3semLabs-main/lab12/RazorModesls/bin/Debug/net7.0/RazorModels.deps.json
+/Users/ksenia55/Desktop/bmstuAL3semLabs-main/lab12/RazorModesls/bin/Debug/net7.0/RazorModels.dll
+/Users/ksenia55/Desktop/bmstuAL3semLabs-main/lab12/RazorModesls/bin/Debug/net7.0/RazorModels.pdb
+/Users/ksenia55/Desktop/bmstuAL3semLabs-main/lab12/RazorModesls/obj/Debug/net7.0/RazorModels.csproj.AssemblyReference.cache
+/Users/ksenia55/Desktop/bmstuAL3semLabs-main/lab12/RazorModesls/obj/Debug/net7.0/RazorModels.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ksenia55/Desktop/bmstuAL3semLabs-main/lab12/RazorModesls/obj/Debug/net7.0/RazorModels.AssemblyInfoInputs.cache
+/Users/ksenia55/Desktop/bmstuAL3semLabs-main/lab12/RazorModesls/obj/Debug/net7.0/RazorModels.AssemblyInfo.cs
+/Users/ksenia55/Desktop/bmstuAL3semLabs-main/lab12/RazorModesls/obj/Debug/net7.0/RazorModels.csproj.CoreCompileInputs.cache
+/Users/ksenia55/Desktop/bmstuAL3semLabs-main/lab12/RazorModesls/obj/Debug/net7.0/RazorModels.dll
+/Users/ksenia55/Desktop/bmstuAL3semLabs-main/lab12/RazorModesls/obj/Debug/net7.0/refint/RazorModels.dll
+/Users/ksenia55/Desktop/bmstuAL3semLabs-main/lab12/RazorModesls/obj/Debug/net7.0/RazorModels.pdb
+/Users/ksenia55/Desktop/bmstuAL3semLabs-main/lab12/RazorModesls/obj/Debug/net7.0/ref/RazorModels.dll
